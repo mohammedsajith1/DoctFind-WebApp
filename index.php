@@ -109,7 +109,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="row">
                 <div class="col-md-12">
                     <div class="w-75 m-auto">
-                        <h1 class="pb-3 text-uppercase">Are You Ready To Booking ?</h1>
+                        <h1 class="pb-3 text-uppercase"> Are You Ready To Booking ?</h1>
                         <p class="pb-4" align="justify"> "DoctFind is a state-of-the-art online platform revolutionizing healthcare access. It provides seamless appointment scheduling that connects patients with a wide variety of healthcare professionals. With user-friendly navigation, patients can easily find, book and manage appointments with doctors of their choice. Specialists. DoctFind simplifies the healthcare journey, providing users with quality empowers effective access to care. With its intuitive interface and comprehensive database, it ensures a hassle-free experience for both patients and healthcare providers. Experience convenience and ease in healthcare booking with your trusted DoctFind. Partner in accessible and efficient healthcare.”</p>
                         <a href="signup.php"class="btn btn-primary me-md-3 style="padding-left: 2.5rem; padding-right: 2.5rem;"" type="button">Signup</a>
                         <a href="login.php"class="btn btn-light me-md-3 style="padding-left: 2.5rem; padding-right: 2.5rem;"" type="button">Login</a>
@@ -282,7 +282,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               </ul>
           </div>
           <div class="text-center border-top border-secondary py-4 ">
-            <p class="text-muted mb-0 text-white">Copyright: 2024 design By Doctfind Web Solution</p>
+            <p class="text-muted mb-0 text-white">Copyright: 2024 design By Doctfind Web Solution❤︎</p>
           </div>
         </div>
       </section>
