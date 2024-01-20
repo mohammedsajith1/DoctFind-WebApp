@@ -1,0 +1,35 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner
+{
+    background-image:url(/doctfind/img/sajith.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+
+.skill-padding{
+    padding: 50px 0;
+}
+.coloum2-padding{
+    padding: 25px 0;
+
+}
+
+
+.card-img-top{
+    height: 150px;
+    width: 150;
+}
+.footer-sajith{
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+    font-size: 10px;
+    animation: transitionIn-Y-over 0.5s;
+}
+
+
