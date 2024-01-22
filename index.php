@@ -282,7 +282,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               </ul>
           </div>
           <div class="text-center border-top border-secondary py-4 ">
-            <p class="text-muted mb-0 text-white">Copyright: 2024 design By Doctfind Web Solution❤︎</p>
+            <p class="text-muted mb-0 text-white">Copyright: 2024 design By DoctFind Web Solution❤︎</p>
           </div>
         </div>
       </section>
