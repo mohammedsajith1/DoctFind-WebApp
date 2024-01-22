@@ -572,9 +572,8 @@ input[type=search]:focus {
 }
 
 .h3-search{
-  margin: 10;
-  padding: 10;
-  padding-left: 30;
+  margin: 0;
+  padding: 0;
   font-size: 15px;
   font-weight: 500;
   color: #212529e3;
@@ -582,8 +581,8 @@ input[type=search]:focus {
 }
 
 .h4-search{
-  margin: 10;
-  padding: 10;
+  margin: 0;
+  padding: 0;
   font-size: 13px;
   font-weight: 400;
   color: #212529e3;

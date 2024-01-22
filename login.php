@@ -17,8 +17,6 @@
 <body>
     <?php
 
-    //learn from w3schools.com
-    //Unset all the server side variables
 
     session_start();
 
